@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daorungphailin&label=Profile%20views&color=0e75b6&style=flat" alt="daorungphailin" /> </p>
 <h3 align="left">Connect with me:</h3> -->
 
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p>
-
+GitHub Stats Card
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daorungphailin&show_icons=true&locale=en&theme=radical" alt="daorungphailin" /></p>
 
+Top Languages Card
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p>
