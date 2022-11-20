@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </p><p align="left">
 </p>
 
-<!--Top Languages Card-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p>
-
 <!--GitHub Stats Card-->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daorungphailin&show_icons=true&locale=en&theme=radical" alt="daorungphailin" /></
+
+<!--Top Languages Card-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p>
