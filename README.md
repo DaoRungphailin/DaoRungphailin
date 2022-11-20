@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=radical" alt="daorungphailin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daorungphailin&show_icons=true&locale=en&theme=radical" alt="daorungphailin" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daorungphailin&show_icons=true&locale=en&theme=radical" alt="daorungphailin" /></p>
 
