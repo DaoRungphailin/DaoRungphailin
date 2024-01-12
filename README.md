@@ -17,5 +17,6 @@ I'm a dynamic and creative college student delving into the world of computer en
 </p>
 
 
-
-<a href="https://github.com/DaoRungphailin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoRungphailin&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Top Languages
+<!--Top Languages Card-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daorungphailin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="daorungphailin" /></p>
